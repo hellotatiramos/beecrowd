@@ -1,0 +1,21 @@
+
+^
+java:S1192"HDefine a constant instead of duplicating this literal "Media: " 3 times.(¨íË‡
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¢à†ÿÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¢à†ÿÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¢à†ÿÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¢à†ÿÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¢à†ÿÿÿÿÿ
+Z
+java:S1659"?Declare "N2" and all following declarations on a separate line.(½¢à†ÿÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(¨íË‡
+E	java:S106"+Replace this use of System.out by a logger.(ˆ¬§«úÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(¨íË‡
+@	java:S106"+Replace this use of System.out by a logger.(ùõ£ò
+@	java:S106"+Replace this use of System.out by a logger.(¨íË‡
+E	java:S106"+Replace this use of System.out by a logger.(½›‡œşÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(·íæùÿÿÿÿ
+E	java:S106!"+Replace this use of System.out by a logger.(ˆ¬§«úÿÿÿÿ
+E	java:S106""+Replace this use of System.out by a logger.(µÿëìüÿÿÿÿ
+@	java:S106$"+Replace this use of System.out by a logger.(ùõ£ò
+E	java:S106%"+Replace this use of System.out by a logger.(µÿëìüÿÿÿÿ
