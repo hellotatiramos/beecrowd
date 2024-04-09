@@ -21,3 +21,11 @@ F
 iniciante/Bee1042.java,7/5/75e171beb2c82081e9c53bcc4ff71e6a49748d6d
 F
 iniciante/Bee1043.java,c/a/ca507f5640397b5e0eb16fecc976e9aa83a7f56a
+E
+.vscode/settings.json,8/9/89aa447020cdcb580cea0495694d46a55941edbe
+<
+beecrowd.iml,1/0/105801f3545d6a8e79eb209fa8894fa8d832bbd0
+F
+iniciante/Bee1044.java,e/1/e1bc47b446a106b347fa2f36578b20d0c5c40d70
+F
+iniciante/Bee1045.java,1/e/1e131eb74948ad2f92eb4dbcefee4266bc985ac9

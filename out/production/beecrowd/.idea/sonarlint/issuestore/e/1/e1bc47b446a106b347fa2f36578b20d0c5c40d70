@@ -1,0 +1,11 @@
+
+m	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì˜8ŸšÀÂÚ1
+m	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì˜8ŸšÀÂÚ1
+Z
+java:S1854"=Remove this useless assignment to local variable "resultado".(ã†‘™8®šÀÂÚ1
+[
+java:S1659	">Declare "B" and all following declarations on a separate line.(ì˜8®šÀÂÚ1
+K
+java:S1481	".Remove this unused "resultado" local variable.(ì˜8²šÀÂÚ1
+L	java:S106"+Replace this use of System.out by a logger.(¶ê¶‚ÿÿÿÿÿ8³šÀÂÚ1
+G	java:S106"+Replace this use of System.out by a logger.(ŠŒØœ8ÙÃÀÂÚ1

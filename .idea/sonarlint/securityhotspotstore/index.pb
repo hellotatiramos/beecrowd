@@ -27,3 +27,5 @@ E
 beecrowd.iml,1/0/105801f3545d6a8e79eb209fa8894fa8d832bbd0
 F
 iniciante/Bee1044.java,e/1/e1bc47b446a106b347fa2f36578b20d0c5c40d70
+F
+iniciante/Bee1045.java,1/e/1e131eb74948ad2f92eb4dbcefee4266bc985ac9
